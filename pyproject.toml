@@ -1,5 +1,5 @@
 [project]
-name = "rl-tasks-evaluator"
+name = "pseudo_rl_tasks"
 version = "0.2.0"
 description = "Evaluation framework for RL tasks with real-world API integration"
 readme = "README.md"
